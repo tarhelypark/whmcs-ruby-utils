@@ -1,7 +1,4 @@
 path = File.expand_path(File.dirname(__FILE__))
-$LOAD_PATH.unshift "#{path}/../../whmcs-ruby-api/lib/"
-
-require 'whmcs-api'
 load path + '/../lib/base.rb'
 
 username = ARGV[0]
