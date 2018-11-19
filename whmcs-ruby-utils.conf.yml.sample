@@ -1,0 +1,4 @@
+api_url: https://yourdomain.com
+api_username: api-user
+api_password: md5hash
+api_key: api key not necessary
